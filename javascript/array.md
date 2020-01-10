@@ -208,6 +208,7 @@
 ```
 
 `slice` 从已有的数组中返回选定的元素 该方法不会修改数组而是返回一个子数组 包含从 start 到 end （不包括该元素）的 arrayObject 中的元素
+
 `arrayObject.slice(start,end)` `end`是可选的 
 
 ```javascript

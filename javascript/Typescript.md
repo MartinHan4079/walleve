@@ -112,6 +112,6 @@ class Dog extends Animal {
 
 
 
-在使用工具时，需要安装相应工具的@type声明文件，不然编译器报错，，，很难受。
+在使用工具时，需要安装相应工具的@type声明文件。
 
-比如使用react时就需要安装@type/react、@type/react-dom、@type/react-router 、@@type/react-router-dom、等等吧。
+比如使用react时就需要安装@type/react、@type/react-dom、@type/react-router 、@type/react-router-dom、等等。

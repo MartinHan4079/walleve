@@ -123,18 +123,7 @@
 ```
 
 ### 问题
-1. Your branch is ahead of 'origin/master' by 2 commits. (use "git push" to publish your local commits)
-同时又又发现fetch不下来远程分支，或导致出现主枝出现分叉.
-解决办法：
+clone 超时报错 early EOF
 
-```js
-    git reset--softHEAD~1
-
-    git reset--softHEAD~1
-```
-
-1. 然后把修改的文件自行拷贝一份出来，然后移除本地的所有更改。
-2. 拉去远程分支。
-3. 然后把刚刚拷贝的文件放回原处。
-4. 看下状态，重新提交代码
+    git clone --depth 1 ssh***
 

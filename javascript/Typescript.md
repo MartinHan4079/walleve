@@ -1,3 +1,6 @@
+> window上vs code使用typescript时，不管怎么配置.ts文件，智能补全和类型提示就是不起作用，最后发现vs code 内置的功能居然默认关闭了。vscode插件搜索中输入@builtin 改下TypeScript and JavaScript Language Features 的状态. 
+
+
 ### 基础类型
 
 #### Boolean

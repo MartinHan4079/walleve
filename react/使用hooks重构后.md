@@ -28,6 +28,3 @@
 3. 最好是配合typeScript + rxjs使用 感觉最佳
 
 > 使用typescript后，除了安装相应工具的时候需要安装其对应的typescript类型。使用typescript后的不管是代码提示还是自动补全都是相当给力的(vs code)。另外加一句：typescript最好别用 不然真的要回不去的。
-
-
-
